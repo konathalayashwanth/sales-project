@@ -189,11 +189,16 @@ Storage Event Trigger → ADF Pipeline
 
 ---
 
-### 🔮 Future Enhancements
-- Implement **Delta Lake** for incremental processing and version control  
-- Add **data quality metrics** and validation reports  
-- Integrate with **Power BI** for real-time sales analytics dashboards  
-- Introduce **error handling & retry logic** in pipeline activities  
+---
+
+## 🖼️ Project Snapshots
+
+All key implementation screenshots (Azure resources, Data Lake container structure, ADF pipeline run, and Databricks notebook execution) are available in the file below:
+
+📎 [Sales_Data_Engineering_Project_Snapshots.docx](./Sales_Data_Engineering_Project_Snapshots.docx)
+
+
+ 
 
 ---
 
